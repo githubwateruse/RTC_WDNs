@@ -8,14 +8,14 @@ The hydraulic simulation of the water distribution networks is based on the EPAN
 
 # Dependencies
 python==3.8.0  
-numpy==1.23.4
-pytorch==1.13.0
-owa-epanet==2.2.4
-matplotlib==3.6.1
-scipy==1.9.3
-pyDOE==0.3.8
-xlrd==1.2.0
-xlsxwriter==3.0.3
+numpy==1.23.4  
+pytorch==1.13.0  
+owa-epanet==2.2.4  
+matplotlib==3.6.1  
+scipy==1.9.3  
+pyDOE==0.3.8  
+xlrd==1.2.0  
+xlsxwriter==3.0.3  
 
 
 
