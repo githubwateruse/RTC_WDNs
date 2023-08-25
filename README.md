@@ -9,11 +9,11 @@ The hydraulic simulation of the water distribution networks is based on the EPAN
 
 
 # INP files
-The modified Anytown and the modified D-town networks are used as the test cases. The Inp flies of the Anytown and the D-town networks are listed as below.
-Anytown_revised_1h.inp: The Inp file of the Anytown network. The scheduling step size is 1 hour.
-Anytown_revised_15m.inp: The Inp file of the Anytown network. The scheduling step size is 15 min.
-D_town_mod_1h.inp: The Inp file of the D-town network. The scheduling step size is 1 hour.
-D_town_mod_5m.inp: The Inp file of the D-town network. The scheduling step size is 5 min.
+The modified Anytown and the modified D-town networks are used as the test cases. The Inp flies of the Anytown and the D-town networks are listed as below.  
+Anytown_revised_1h.inp: The Inp file of the Anytown network. The scheduling step size is 1 hour.  
+Anytown_revised_15m.inp: The Inp file of the Anytown network. The scheduling step size is 15 min.  
+D_town_mod_1h.inp: The Inp file of the D-town network. The scheduling step size is 1 hour.  
+D_town_mod_5m.inp: The Inp file of the D-town network. The scheduling step size is 5 min.  
 
 # Dependencies
 python==3.8.0  
