@@ -7,7 +7,7 @@ The PPO algorithm is provided by https://github.com/Lizhi-sjtu/DRL-code-pytorch/
 The hydraulic simulation of the water distribution networks is based on the EPANET engine. The Python packages related to the EPANET engine is provided by https://github.com/OpenWaterAnalytics/EPANET
 
 # Dependencies
-python==3.8.0
+python==3.8.0  
 numpy==1.23.4
 pytorch==1.13.0
 owa-epanet==2.2.4
